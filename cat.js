@@ -8,8 +8,8 @@ cat.style.position = "absolute";
 // bg.style.position = "absolute";
 
 function walk() {
-	var max_width = document.width - cat.width;
-	if(parseInt(cat.style.left, 10) >= max_width || speed < 0) {
+	var maxWidth = document.width - cat.width;
+	if(parseInt(cat.style.left, 10) >= maxWidth || speed < 0) {
 	return;
 	} 
 	cat.style.left = parseInt(cat.style.left, 10) + speed + "px";
