@@ -1,0 +1,58 @@
+#bg {
+	background-image:url('images/park.png');
+}
+
+#cat {
+	margin-top: 500px;
+	background-color: red;
+
+}
+
+#buttons_container {
+	width: 615px;
+	margin: auto;
+}
+
+#start{
+	height: 50px;
+	width: 150px;
+	background-color: #c5a1c9;
+	color: white;
+	display: inline-block;
+	border: none;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+#faster{
+	height: 50px;
+	width: 150px;
+	background-color: #c5a1c9;
+	color: white;
+	display: inline-block;
+	border: none;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+#slower{
+	height: 50px;
+	width: 150px;
+	background-color: #c5a1c9;
+	color: white;
+	display: inline-block;
+	border: none;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+#stop{
+	height: 50px;
+	width: 150px;
+	background-color: #c5a1c9;
+	color: white;
+	display: inline-block;
+	border: none;
+	font-family: sans-serif;
+	font-size: 20px;
+}
